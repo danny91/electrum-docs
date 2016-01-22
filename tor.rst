@@ -14,7 +14,7 @@ List of Active .onion servers
 -----------------------------
 Check the list here;
 
-http://electrumsev.noip.me/onionservers.txt
+http://electrumserv.noip.me/onionservers.txt
 
 If you wish to be added to this list email me at:
 
